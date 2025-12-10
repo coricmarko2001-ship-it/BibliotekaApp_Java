@@ -116,17 +116,17 @@ U svim prikazima (knjige, korisnici, autori…) postoji polje za **real-time pre
 <div align="center">
 
 ### ➤ Dodavanje knjige  
-<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp_Java/blob/945294aad94a485bb24d6a7eeea04c8915615c52/Screenshots/Dodavanje%20knjige.png" width="700"/>
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp_Java/blob/945294aad94a485bb24d6a7eeea04c8915615c52/Screenshots/Dodavanje%20knjige.png" width="350"/>
 
 ---
 
 ### ➤ Izmjena knjige  
-<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp_Java/blob/07dfb5dc8461c6c4a856ecbe97083ce23e7b0e57/Screenshots/Izmjena%20knjige.png" width="700"/>
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp_Java/blob/07dfb5dc8461c6c4a856ecbe97083ce23e7b0e57/Screenshots/Izmjena%20knjige.png" width="350"/>
 
 ---
 
 ### ➤ Iznajmljivanje knjige  
-<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp_Java/blob/0d832738f8508ede3febd6522fb268ab54d44d3a/Screenshots/Iznajmljivanje%20knjige.png" width="700"/>
+<img src="https://github.com/coricmarko2001-ship-it/BibliotekaApp_Java/blob/0d832738f8508ede3febd6522fb268ab54d44d3a/Screenshots/Iznajmljivanje%20knjige.png" width="350"/>
 
 ---
 
