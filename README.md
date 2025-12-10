@@ -111,4 +111,5 @@ U svim prikazima (knjige, korisnici, autori…) postoji polje za **real-time pre
 
 ---
 
-## 📁 Struktura foldera
+## 📸 Screenshots
+![image alt]()
