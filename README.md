@@ -113,3 +113,6 @@ U svim prikazima (knjige, korisnici, autori…) postoji polje za **real-time pre
 
 ## 📸 Screenshots
 ![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp_Java/blob/945294aad94a485bb24d6a7eeea04c8915615c52/Screenshots/Dodavanje%20knjige.png)
+![image alt](https://github.com/coricmarko2001-ship-it/BibliotekaApp_Java/blob/07dfb5dc8461c6c4a856ecbe97083ce23e7b0e57/Screenshots/Izmjena%20knjige.png)
+![image alt]()
+![image alt]()
